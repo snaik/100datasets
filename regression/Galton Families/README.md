@@ -1,5 +1,4 @@
-This classic dataset is famous for Galton's(1886) analysis 'Regression towards Mediocrity'
-The dataset contains observations of 934 children in 205 families. The dataset has the following variables. 
+This classic dataset is famous for Galton's(1886) analysis 'Regression towards Mediocrity'. The dataset contains observations of 934 children in 205 families with the following variables. 
 
 - family: family ID, a factor with levels 001-204
 - father: height of father
